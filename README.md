@@ -401,7 +401,7 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 ```
 
 ## OUTPUT:
-![output]()
+![output](https://github.com/jhansi21005096/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/blob/main/out6aa.png)
 
 ## RESULT:
 The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
